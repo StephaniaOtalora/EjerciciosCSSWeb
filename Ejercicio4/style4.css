@@ -1,0 +1,13 @@
+input.texto {
+  size: 150px;
+  background-color: greenyellow;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-color: rgb(180, 178, 178);
+}
+
+#Edad {
+  color: orangered;
+  font-weight: bolder;
+  font-size: large;
+}
